@@ -44,5 +44,13 @@
     NSLog(@"Hello");
 }
 
+- (void)sayByeBye{
+    NSLog(@"ByeBye");
+    
+    
+}
+
+
+
 
 @end
